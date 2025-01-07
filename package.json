@@ -1,7 +1,7 @@
 {
 	"name": "test-1",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Fork the repository, to deliver create a pull request.",
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
@@ -10,7 +10,7 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"dependencies": {
+	"devDependencies": {
 		"jest": "^29.7.0"
 	}
 }
